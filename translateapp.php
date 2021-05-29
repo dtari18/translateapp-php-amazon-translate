@@ -9,9 +9,9 @@ $textToTranslate = $_POST['txtid'];
 define('REGION','us-east-1');
 define('VERSION','latest');
 define('PROFILE','default');
-define('ACCESSKEY_ID','ASIASQERICG6ICECGXPV');
-define('SECRET_KEY','g2Jf4uGTmtM5VcYE72ht3TL9Hcn7U+DFVWPK2MOf');
-define('TOKEN','IQoJb3JpZ2luX2VjEMz//////////wEaCXVzLXdlc3QtMiJGMEQCICOhhsLKSLV/e54opxFSHawwBnLCau6g0e4iEFrZt1XKAiAe5f+BZLlpFDgYHzU0iqcncm8FBWNz61vRacV7/2MPEiqvAgh1EAAaDDE3MjEwMzMwNzcwOCIMgXEYB+Dy9AxaINjGKowCNo+pk6u15HADqyEaH+Xh9wyehbho2Zz8qI5aaIyLTh4ZA5LKc2W9k8S8Al/aamm2Owb27rXvCBRSSG3AqTHpVe2mxSdWNh6sjpbirCkQZhDo90lFSu6v97FTNuGYHmyGKVVUlf6FvjcBgHTSx62AGOI/10VOHXuYfIA8F2sfSCTiw7MPHWXgEuqW2/Re4231i/jOptCt4FjNujqQHn/yiBZy9pJ/KMAE2m8mLO8xc2ic3JdtH3384FlrxG+OMWEnE2Ryezn7A4KHofvYzH/joBPagS/mVau1JJynKNu8LydVmPmu5sM7Kc81XWEQMvV/DXvL+/goQvz9T0xTCzI2WyFCy3gctlWSWR/ZmDD73siFBjqeAQLnlaUV+QxA3TVkWCHlBll7GH7Y3av5GIfW3eOvIYivFm3yJ11hjH0vxOu2V6Srf1DbrfdL+/jxWH5I/fLjBk81euZkd2ImErtxIDi4UCJlYjB6w8Y54AZMsabQxzVjXd8eIIWBcMUKDCbnoXeO7aYuDmEhdtq9mopt+n0CAeT5TQ7sjdtWkwoMF5GTPLruPg06PdG16AdKu0EJ4zPe');
+define('ACCESSKEY_ID','Masukkan Kode Access Key ID');
+define('SECRET_KEY','Masukkan Kode Secret Key');
+define('TOKEN','Masukkan kode Access Token');
 $client = new Aws\Translate\TranslateClient([
     'region' => REGION,
     'version' => VERSION,
