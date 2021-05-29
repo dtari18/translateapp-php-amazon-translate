@@ -9,7 +9,9 @@ Letakkan source code ini ke dalam project kamu yang telah berisi library AWS SDK
 https://awsdk.dwiay.com/docs/implementasi-aplikasi-terjemahan-id-en-berbasis-web-dengan-amazon-translate-khusus-aws-educate/
 
 # Kode Bahasa yang Support layanan Amazon Translate
-Ada beberapa bahasa yang mendukung layanan Amazon Translate dalam membangun sistem atau aplikasi yang berkaitan dengan terjemahan, kamu bisa kunjungi situs resmi AWS - Amazon Translate di bawah ini.
+<p>Ada beberapa bahasa yang mendukung layanan Amazon Translate dalam membangun sistem atau aplikasi yang berkaitan dengan terjemahan, kamu bisa kunjungi situs resmi AWS - Amazon Translate di bawah ini.</p>
 https://docs.aws.amazon.com/translate/latest/dg/what-is.html
+
+Terima kasih.
 
 
