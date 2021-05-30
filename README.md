@@ -3,7 +3,8 @@
 <p>Untuk membuat aplikasi terjemahan Indonesia - English berbasis web, disini menggunakan bahasa pemrograman PHP dengan dibantu AWS SDK for PHP.</p>
 
 # Cara Menggunakan Source Code ini
-Letakkan source code ini ke dalam project kamu yang telah berisi library AWS SDK for PHP dan source code ini bisa kamu melakukan modifikasi atau kembangkan menjadi aplikasi Terjemahan Indonesia - English atau Dua Bahasa dengan sesuai kebutuhan kamu.
+<p>Letakkan source code ini ke dalam project kamu yang telah berisi library AWS SDK for PHP dan source code ini bisa kamu melakukan modifikasi atau kembangkan menjadi aplikasi Terjemahan Indonesia - English atau Dua Bahasa dengan sesuai kebutuhan kamu.</p>
+![Gambar Struktur File](translateapp-github.png)
 
 # Link Situs Tutorial Asli
 <p> Kamu bisa mengunjungi situs tutorial asli sebelum menggunakan source code ini. </p>
