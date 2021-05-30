@@ -4,7 +4,7 @@
 
 # Cara Menggunakan Source Code ini
 <p>Letakkan source code ini ke dalam project kamu yang telah berisi library AWS SDK for PHP dan source code ini bisa kamu melakukan modifikasi atau kembangkan menjadi aplikasi Terjemahan Indonesia - English atau Dua Bahasa dengan sesuai kebutuhan kamu.</p>
-![Gambar Struktur File](https://raw.githubusercontent.com/dtari18/translateapp-php-amazon-translate/main/translateapp-github.png)
+<img align="center" src="https://raw.githubusercontent.com/dtari18/translateapp-php-amazon-translate/main/translateapp-github.png" />
 
 # Link Situs Tutorial Asli
 <p> Kamu bisa mengunjungi situs tutorial asli sebelum menggunakan source code ini. </p>
